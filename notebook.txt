@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-#learning git.
-#learnig github
-
-=======
-#learning git(learning).
->>>>>>> 25af9d4e96a53e9fe95d57351681f672ff707139
-
-
+#learning git
