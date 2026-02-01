@@ -1,5 +1,4 @@
-#learning git(adding new feature).
-#learnig github
+#learning git
 
 
 
