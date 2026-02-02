@@ -1,2 +1,2 @@
 # fakeTime
-# learning git
+# learning github
